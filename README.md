@@ -1,1 +1,3 @@
-echo "#Wild-project"
+#Wild-project
+
+comment installer ce projet?
