@@ -1,3 +1,3 @@
-echo "#Wild-project"
-echo "comment installer ce projet?"
-echo "il suffit, pour le moment, de le cloner"
+#Wild-project
+Comment installer ce projet?
+Il suffit, pour le moment, de le cloner
